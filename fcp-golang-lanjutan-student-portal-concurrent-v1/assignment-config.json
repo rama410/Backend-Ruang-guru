@@ -1,0 +1,16 @@
+{
+	"name": "fcp-golang-lanjutan-student-portal-concurrent",
+	"course": "Pemrograman Backend Lanjutan",
+	"title": "Advanced Student Portal: Concurrent Request Handling",
+	"order": 200,
+	"topics": [
+		"golang",
+		"concurrency"
+	],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 19,
+	"metadata": {
+		"type": "final-project"
+	}
+}
